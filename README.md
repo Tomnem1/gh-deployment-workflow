@@ -1,4 +1,4 @@
-# gh-deployment-workflow
+# GitHub Pages Deployment Workflow
 
 A GitHub Actions workflow that automatically deploys a static site to GitHub Pages.
 Every push to `main` that changes `site/index.html` triggers a deploy — nothing else
