@@ -1,7 +1,7 @@
 # GitHub Pages Deployment Workflow
 
 A GitHub Actions workflow that automatically deploys a static site to GitHub Pages.
-Every push to `main` that changes `site/index.html` triggers a deploy — nothing else
+Every push to `main` branch that changes `site/index.html` triggers a deploy — nothing else
 does. Built for the roadmap.sh ["GitHub Pages Deployment"](https://roadmap.sh/projects/github-actions-deployment-workflow)
 project.
 
